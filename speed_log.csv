@@ -1,0 +1,2 @@
+timestamp,ping_ms,download_mbps,upload_mbps,server,status
+2026-10-22T01:15:52+02:00,1200035.42,25.16,2.55,netconnect AG - Winterthur,OK
